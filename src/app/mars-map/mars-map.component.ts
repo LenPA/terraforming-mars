@@ -12,4 +12,8 @@ export class MarsMapComponent implements OnInit {
   ngOnInit() {
   }
 
+  handleAction(event): void {
+      console.log(event.srcElement.classList);
+  }
+
 }

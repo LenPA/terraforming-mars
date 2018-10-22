@@ -1,0 +1,25 @@
+/*svg {*/
+    /*height: 1000px;*/
+    /*width: 1000px;*/
+/*}*/
+
+path:hover {
+    fill: grey;
+    opacity: 0.5;
+
+}
+
+path {
+    fill:none;
+    stroke:grey;
+    pointer-events:all;
+}
+
+.earth {
+    fill: #e7a657;
+}
+
+
+.ocean {
+    fill: deepskyblue;
+}
