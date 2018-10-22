@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-mars-map',
+  selector: 'tm-mars-map',
   templateUrl: './mars-map.component.html',
   styleUrls: ['./mars-map.component.css']
 })
