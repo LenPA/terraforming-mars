@@ -10,7 +10,7 @@ path:hover {
 }
 
 path {
-    fill:none;
+    /*fill:none;*/
     stroke:grey;
     pointer-events:all;
 }

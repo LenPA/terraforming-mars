@@ -1,0 +1,28 @@
+#home-menu {
+    border-radius: 500px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    text-align: center;
+    background-image: url(../../assets/mars-water.jpg);
+    font-family: Ubuntu;
+    box-shadow: 0 0 5px 5px #bf6c44;
+
+}
+
+#home-title {
+    margin-top: 50px;
+    font-size: 60px;
+}
+
+.mat-button {
+    font-size: 40px;
+    margin-top: 30px;
+    /*top: 50%;*/
+}
