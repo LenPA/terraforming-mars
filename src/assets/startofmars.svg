@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="976.88062"
-   height="877.40887"
-   viewBox="0 0 258.46633 232.14777"
+   width="1042.7819"
+   height="1042.7819"
+   viewBox="0 0 275.90268 275.90271"
    version="1.1"
    id="svg22"
    inkscape:version="0.92.3 (unknown)"
@@ -28,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94888889"
-     inkscape:cx="296.63703"
-     inkscape:cy="438.70443"
+     inkscape:zoom="0.67096577"
+     inkscape:cx="356.22098"
+     inkscape:cy="516.87701"
      inkscape:document-units="mm"
      inkscape:current-layer="svg22"
      showgrid="false"
      inkscape:window-width="1853"
-     inkscape:window-height="1025"
+     inkscape:window-height="1016"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -60,7 +60,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="matrix(0.39315813,0,0,0.39315813,42.24535,-22.131968)">
+     transform="matrix(0.41742317,0,0,0.41742317,45.379288,-8.8478719)">
     <path
        sodipodi:type="star"
        id="A1"
@@ -1211,4 +1211,8 @@
        inkscape:transform-center-x="-6.4003906e-06"
        class="ocean 2-titanium" />
   </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.25335792"
+     d="M 275.77603,137.95135 A 137.82468,137.82468 0 0 1 137.95135,275.77603 137.82468,137.82468 0 0 1 0.12667847,137.95135 137.82468,137.82468 0 0 1 137.95135,0.12667847 137.82468,137.82468 0 0 1 275.77603,137.95135 Z"
+     id="outline" />
 </svg>
