@@ -1,365 +1,341 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="976.88"
-   height="877.41"
-   version="1.1"
-   viewBox="0 0 258.47 232.15"
-   id="svg408"
-   sodipodi:docname="startofmars_copy.svg"
-   inkscape:version="0.92.3 (unknown)">
-  <metadata
-     id="metadata414">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs412" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     id="namedview410"
-     showgrid="false"
-     inkscape:zoom="0.53794693"
-     inkscape:cx="509.10166"
-     inkscape:cy="611.81913"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg408" />
-  <g
-     transform="matrix(.39316 0 0 .39316 42.245 -22.132)"
-     fill="none"
-     stroke="#000"
-     stroke-width=".18863"
-     id="g406">
-    <path
-       class="earth 2-iron"
-       transform="rotate(90 75.205 98.563)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path284" />
-    <path
-       class="ocean 2-iron"
-       transform="rotate(90 161.59 121.71)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path286" />
-    <path
-       class="earth"
-       transform="rotate(90 184.74 208.1)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path288" />
-    <path
-       class="ocean 1-card"
-       transform="rotate(90 221.25 244.61)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path290" />
-    <path
-       class="ocean"
-       transform="rotate(90 257.77 281.12)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path292" />
-    <path
-       class="earth"
-       transform="rotate(90 25.328 111.93)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path294" />
-    <path
-       class="earth 1-iron tharsis-tholus"
-       transform="rotate(90 111.72 135.07)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path296" />
-    <path
-       class="earth"
-       transform="rotate(90 134.86 221.46)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path298" />
-    <path
-       class="earth"
-       transform="rotate(90 171.38 257.98)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path300" />
-    <path
-       class="earth"
-       transform="rotate(90 207.89 294.49)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path302" />
-    <path
-       class="ocean 2-card"
-       transform="rotate(90 244.4 331)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path304" />
-    <path
-       class="earth 1-card ascraeus-mons"
-       transform="rotate(90 -24.549 125.29)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path306" />
-    <path
-       class="earth"
-       transform="rotate(90 61.84 148.44)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path308" />
-    <path
-       class="earth"
-       transform="rotate(90 84.988 234.83)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path310" />
-    <path
-       class="earth"
-       transform="rotate(90 121.5 271.34)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path312" />
-    <path
-       class="earth"
-       transform="rotate(90 158.01 307.85)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path314" />
-    <path
-       class="earth"
-       transform="rotate(90 194.53 344.37)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path316" />
-    <path
-       class="earth 1-iron"
-       transform="rotate(90 231.04 380.88)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path318" />
-    <path
-       class="earth 1-plant 1-titanium pavonis-mons"
-       transform="rotate(90 -74.426 138.66)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path320" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 11.963 161.8)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path322" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 35.111 248.19)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path324" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 71.624 284.71)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path326" />
-    <path
-       class="earth 2-plant"
-       transform="rotate(90 108.14 321.22)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path328" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 108.14 321.22)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path330" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 194.53 344.37)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path332" />
-    <path
-       class="ocean 2-plant"
-       transform="rotate(90 217.67 430.75)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path334" />
-    <path
-       class="earth 2-plant arsia-mons"
-       transform="rotate(90 -124.3 152.02)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path336" />
-    <path
-       class="earth 2-plant"
-       transform="rotate(90 -37.913 175.17)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path338" />
-    <path
-       class="earth 1-plant noctis-city"
-       transform="rotate(90 -14.765 261.56)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path340" />
-    <path
-       class="ocean 2-plant"
-       transform="rotate(90 21.747 298.07)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path342" />
-    <path
-       class="ocean 2-plant"
-       transform="rotate(90 58.259 334.58)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path344" />
-    <path
-       class="ocean 2-plant"
-       transform="rotate(90 58.259 334.58)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path346" />
-    <path
-       class="earth 2-plant"
-       transform="rotate(90 144.65 357.73)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path348" />
-    <path
-       class="earth 2-plant"
-       transform="rotate(90 167.8 444.12)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path350" />
-    <path
-       class="earth 2-plant"
-       transform="rotate(90 204.31 480.63)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path352" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 -137.67 201.9)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path354" />
-    <path
-       class="earth 2-plant"
-       transform="rotate(90 -51.278 225.04)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path356" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 -28.13 311.43)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path358" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 8.3825 347.95)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path360" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 44.895 384.46)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path362" />
-    <path
-       class="ocean 1-plant"
-       transform="rotate(90 44.895 384.46)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path364" />
-    <path
-       class="ocean 1-plant"
-       transform="rotate(90 131.28 407.61)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path366" />
-    <path
-       class="ocean 1-plant"
-       transform="rotate(90 154.43 494)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path368" />
-    <path
-       class="earth"
-       transform="rotate(90 -151.03 251.77)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path370" />
-    <path
-       class="earth"
-       transform="rotate(90 -64.642 274.92)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path372" />
-    <path
-       class="earth"
-       transform="rotate(90 -41.494 361.31)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path374" />
-    <path
-       class="earth"
-       transform="rotate(90 -4.982 397.82)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path376" />
-    <path
-       class="earth"
-       transform="rotate(90 31.53 434.34)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path378" />
-    <path
-       class="earth 1-plant"
-       transform="rotate(90 68.043 470.85)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path380" />
-    <path
-       class="earth"
-       transform="rotate(90 104.56 507.36)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path382" />
-    <path
-       class="earth 2-iron"
-       transform="rotate(90 -164.4 301.65)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path384" />
-    <path
-       class="earth"
-       transform="rotate(90 -78.007 324.8)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path386" />
-    <path
-       class="earth"
-       transform="rotate(90 -54.859 411.19)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path388" />
-    <path
-       class="earth 1-card"
-       transform="rotate(90 -18.346 447.7)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path390" />
-    <path
-       class="earth"
-       transform="rotate(90 18.166 484.21)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path392" />
-    <path
-       class="earth 1-titanium"
-       transform="rotate(90 54.678 520.72)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path394" />
-    <path
-       class="earth 1-iron"
-       transform="rotate(90 -177.76 351.53)"
-       d="m117.37 98.562-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path396" />
-    <path
-       class="earth 2-iron"
-       transform="rotate(90 -91.371 374.68)"
-       d="m180.61 135.07-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path398" />
-    <path
-       class="earth"
-       transform="rotate(90 -68.223 461.06)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path400" />
-    <path
-       class="earth"
-       transform="rotate(90 -31.711 497.58)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path402" />
-    <path
-       class="ocean 2-titanium"
-       transform="rotate(90 4.8015 534.09)"
-       d="m117.37 171.59-21.08 36.512h-42.161l-21.08-36.512 21.08-36.512h42.161z"
-       id="path404" />
-  </g>
+        xmlns:svg="http://www.w3.org/2000/svg"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="1205.941"
+        height="1205.941"
+        viewBox="0 0 319.07188 319.07191"
+        version="1.1"
+        id="svg22">
+    <image
+            xlink:href="assets/mars-with-planets.jpg"
+                        width="319.0719"
+            height="319.0719"
+            preserveAspectRatio="none"
+            id="image1071"
+            x="0"
+            y="0" />
+    <!--<g-->
+            <!--id="layer1"-->
+            <!--transform="matrix(0.41742317,0,0,0.41742317,45.676291,33.524443)" />-->
+    <!--<g-->
+            <!--id="g1329"-->
+            <!--transform="translate(0.04243016,1.0776031)" />-->
+        <svg:path
+    (click)="this.handleAction($event)"
+                transform="matrix(0,0.40729856,-0.40729856,0,139.3451,23.686449)"
+                class="earth steel-2"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="A1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean steel-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,183.95936,-2.0716054)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="A2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,228.57363,23.686449)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="A3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean card-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,258.31646,23.686449)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="A4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean"
+                transform="matrix(0,0.40729856,-0.40729856,0,288.05929,23.686449)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="A5" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,124.47368,49.444501)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="B1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth steel-1 tharsis-tholus"
+                transform="matrix(0,0.40729856,-0.40729856,0,169.08794,23.686449)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="B2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,213.70221,49.444506)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="B3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,243.44504,49.444506)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="B4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,273.18789,49.444503)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="B5" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean card-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,302.93073,49.444506)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="B6" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth card-1 ascraeus-mons"
+                transform="matrix(0,0.40729856,-0.40729856,0,109.60227,75.202562)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="C1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,154.21653,49.444509)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="C2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,198.83079,75.202564)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="C3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,228.57364,75.202564)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="C4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,258.31647,75.202559)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="C5" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,288.05932,75.202572)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="C6" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth steel-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,317.80215,75.202564)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="C7" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1 titanium-1 pavonis-mons"
+                transform="matrix(0,0.40729856,-0.40729856,0,94.730849,100.96062)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="D1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,139.3451,75.202564)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="D2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,183.95938,100.96062)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="D3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,213.70221,100.96062)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="D4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,243.44504,100.96062)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="D5" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,243.44504,100.96062)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="D6" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,288.05929,75.202564)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="D7" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,332.67358,100.96062)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="D8" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-2 arsia-mons"
+                transform="matrix(0,0.40729856,-0.40729856,0,79.859429,126.71868)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="E1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,124.47368,100.96062)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="E2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1 noctis-city"
+                transform="matrix(0,0.40729856,-0.40729856,0,169.08795,126.71868)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="E3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,198.83078,126.71868)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="E4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,228.57363,126.71868)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="E5" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,228.57363,126.71868)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="E6" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,273.18789,100.96063)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="E7" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,317.80215,126.71869)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="E8" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,347.54499,126.71869)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="E9" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,94.730839,152.47674)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="F1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,139.3451,126.71868)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="F2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,183.95937,152.47674)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="F3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,213.7022,152.47674)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="F4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,243.44504,152.47674)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="F5" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,243.44504,152.47674)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="F6" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,288.05932,126.71869)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="F7" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,332.67358,152.47675)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="F8" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,109.60226,178.23479)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="G1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,154.21652,152.47674)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="G2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,198.83079,178.23479)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="G3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,228.57363,178.23479)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="G4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,258.31646,178.23479)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="G5" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth plant-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,288.05932,178.23479)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="G6" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,317.80215,178.23479)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="G7" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth steel-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,124.47368,203.99285)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="H1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,169.08794,178.23479)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="H2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,213.70221,203.99285)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="H3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth card-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,243.44505,203.99285)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="H4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,273.18789,203.99285)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="H5" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth titanium-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,302.93073,203.99285)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="H6" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth steel-1"
+                transform="matrix(0,0.40729856,-0.40729856,0,139.34511,229.75091)"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="I1" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth steel-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,183.95937,203.99285)"
+                                d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
+                id="I2" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,228.57364,229.75091)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="I3" />
+        <svg:path (click)="this.handleAction($event)"
+                class="earth"
+                transform="matrix(0,0.40729856,-0.40729856,0,258.31647,229.75091)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="I4" />
+        <svg:path (click)="this.handleAction($event)"
+                class="ocean titanium-2"
+                transform="matrix(0,0.40729856,-0.40729856,0,288.05932,229.75091)"
+                                d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
+                id="I5" />
+        <svg:path (click)="this.handleAction($event)"
+                transform="matrix(0,0.40729856,-0.40729856,0,71.931543,2.9095593)"
+                class="ganymede"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="A1-3" />
+        <svg:path (click)="this.handleAction($event)"
+                transform="matrix(0,0.40729856,-0.40729856,0,320.65226,244.38057)"
+                class="phobos"
+                                d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
+                id="A1-6" />
 </svg>
