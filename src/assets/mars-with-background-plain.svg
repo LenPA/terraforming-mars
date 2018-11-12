@@ -6,11 +6,36 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1205.941"
    height="1205.941"
    viewBox="0 0 319.07188 319.07191"
    version="1.1"
-   id="svg22">
+   id="svg22"
+   sodipodi:docname="mars-with-background-plain.svg"
+   inkscape:version="0.92.3 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1853"
+     inkscape:window-height="1016"
+     id="namedview884"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.70318529"
+     inkscape:cx="723.52583"
+     inkscape:cy="532.44588"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
   <metadata
      id="metadata80">
     <rdf:RDF>
@@ -19,404 +44,436 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs16" />
   <image
+     sodipodi:absref="/home/lenp/repositories/terraforming-mars/src/assets/mars-with-planets.jpg"
      xlink:href="mars-with-planets.jpg"
-     style="opacity:0.9"
-     width="319.0719"
-     height="319.0719"
-     preserveAspectRatio="none"
-     id="image1071"
+     y="0"
      x="0"
-     y="0" />
+     id="image1071"
+     preserveAspectRatio="none"
+     height="319.0719"
+     width="319.0719"
+     style="opacity:0.9" />
   <g
      id="layer1"
      transform="matrix(0.41742317,0,0,0.41742317,45.676291,33.524443)" />
   <g
-     id="g1329"
-     transform="translate(0.04243016,1.0776031)">
+     id="g1012">
     <path
-       transform="matrix(0,0.40729856,-0.40729856,0,139.3451,23.686449)"
        class="earth steel-2"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="A1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="M 99.243166,73.625172 84.371746,65.039155 V 47.867119 l 14.87142,-8.586018 14.871424,8.586018 v 17.172036 z"
+       id="A1"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean steel-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,183.95936,-2.0716054)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="A2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="M 128.98601,73.625176 114.11459,65.039155 V 47.867118 l 14.87142,-8.586019 14.87142,8.586019 v 17.172037 z"
+       id="A2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,228.57363,23.686449)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="A3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 158.72885,73.625176 -14.87142,-8.58602 V 47.867118 l 14.87142,-8.586019 14.87142,8.586019 v 17.172038 z"
+       id="A3"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean card-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,258.31646,23.686449)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="A4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 188.47168,73.625176 -14.87142,-8.58602 V 47.867118 l 14.87142,-8.586019 14.87142,8.586019 v 17.172038 z"
+       id="A4"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean"
-       transform="matrix(0,0.40729856,-0.40729856,0,288.05929,23.686449)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="A5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 218.21451,73.625176 -14.87142,-8.58602 V 47.867118 l 14.87142,-8.586019 14.87142,8.586019 v 17.172038 z"
+       id="A5"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,124.47368,49.444501)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="B1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="M 84.371746,99.383225 69.500326,90.797208 V 73.625172 l 14.87142,-8.586018 14.87142,8.586018 v 17.172036 z"
+       id="B1"
+       inkscape:connector-curvature="0" />
     <path
        class="earth steel-1 tharsis-tholus"
-       transform="matrix(0,0.40729856,-0.40729856,0,169.08794,23.686449)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="B2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="M 114.11459,99.38323 99.243167,90.797209 V 73.625172 l 14.871423,-8.586019 14.87142,8.586019 v 17.172037 z"
+       id="B2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,213.70221,49.444506)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="B3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 143.85743,99.383233 -14.87142,-8.58602 V 73.625175 l 14.87142,-8.586019 14.87142,8.586019 v 17.172038 z"
+       id="B3"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,243.44504,49.444506)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="B4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 173.60026,99.383233 -14.87142,-8.58602 V 73.625175 l 14.87142,-8.586019 14.87142,8.586019 v 17.172038 z"
+       id="B4"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,273.18789,49.444503)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="B5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="M 203.34311,99.38323 188.47169,90.79721 V 73.625172 l 14.87142,-8.586019 14.87142,8.586019 V 90.79721 Z"
+       id="B5"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean card-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,302.93073,49.444506)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="B6" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 233.08595,99.383233 -14.87142,-8.58602 V 73.625175 l 14.87142,-8.586019 14.87142,8.586019 v 17.172038 z"
+       id="B6"
+       inkscape:connector-curvature="0" />
     <path
        class="earth card-1 ascraeus-mons"
-       transform="matrix(0,0.40729856,-0.40729856,0,109.60227,75.202562)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="C1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 69.500336,125.14128 -14.87142,-8.58601 V 99.383232 l 14.87142,-8.586018 14.87142,8.586018 v 17.172038 z"
+       id="C1"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,154.21653,49.444509)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="C2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="M 99.243176,125.14129 84.371757,116.55527 V 99.383232 l 14.871419,-8.586019 14.871424,8.586019 v 17.172038 z"
+       id="C2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,198.83079,75.202564)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="C3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 128.98601,125.14129 -14.87142,-8.58602 V 99.383233 l 14.87142,-8.586019 14.87142,8.586019 v 17.172037 z"
+       id="C3"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,228.57364,75.202564)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="C4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 158.72886,125.14129 -14.87142,-8.58602 V 99.383233 l 14.87142,-8.586019 14.87142,8.586019 v 17.172037 z"
+       id="C4"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,258.31647,75.202559)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="C5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 188.47169,125.14129 -14.87142,-8.58602 V 99.383228 l 14.87142,-8.586019 14.87142,8.586019 v 17.172042 z"
+       id="C5"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,288.05932,75.202572)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="C6" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 218.21454,125.1413 -14.87142,-8.58602 V 99.383242 l 14.87142,-8.586019 14.87142,8.586019 v 17.172038 z"
+       id="C6"
+       inkscape:connector-curvature="0" />
     <path
        class="earth steel-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,317.80215,75.202564)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="C7" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 247.95737,125.14129 -14.87142,-8.58602 V 99.383233 l 14.87142,-8.586019 14.87142,8.586019 v 17.172037 z"
+       id="C7"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1 titanium-1 pavonis-mons"
-       transform="matrix(0,0.40729856,-0.40729856,0,94.730849,100.96062)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="D1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 54.628915,150.89935 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="D1"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,139.3451,75.202564)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="D2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 84.371746,150.89934 -14.871419,-8.58602 v -17.17203 l 14.871419,-8.58602 14.871422,8.58602 v 17.17203 z"
+       id="D2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,183.95938,100.96062)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="D3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 114.1146,150.89935 -14.871421,-8.58602 v -17.17204 l 14.871421,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="D3"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,213.70221,100.96062)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="D4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 143.85743,150.89935 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="D4"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,243.44504,100.96062)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="D5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 173.60026,150.89935 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="D5"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,243.44504,100.96062)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="D6" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 203.34311,150.89935 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="D6"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,288.05929,75.202564)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="D7" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 233.08594,150.89934 -14.87142,-8.58602 v -17.17203 l 14.87142,-8.58602 14.87142,8.58602 v 17.17203 z"
+       id="D7"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,332.67358,100.96062)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="D8" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 262.8288,150.89935 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="D8"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-2 arsia-mons"
-       transform="matrix(0,0.40729856,-0.40729856,0,79.859429,126.71868)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="E1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 39.757495,176.65741 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="E1"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,124.47368,100.96062)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="E2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 69.500326,176.6574 -14.871419,-8.58602 v -17.17203 l 14.871419,-8.58602 14.871422,8.58602 v 17.17203 z"
+       id="E2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1 noctis-city"
-       transform="matrix(0,0.40729856,-0.40729856,0,169.08795,126.71868)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="E3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 99.243173,176.65741 -14.871424,-8.58602 v -17.17204 l 14.871424,-8.58602 14.871417,8.58602 v 17.17204 z"
+       id="E3"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,198.83078,126.71868)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="E4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 128.986,176.65741 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="E4"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,228.57363,126.71868)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="E5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 158.72885,176.65741 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="E5"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,228.57363,126.71868)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="E6" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 188.4717,176.65741 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="E6"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,273.18789,100.96063)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="E7" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 218.21454,176.65741 -14.87142,-8.58602 v -17.17203 l 14.87142,-8.58602 14.87142,8.58602 v 17.17203 z"
+       id="E7"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,317.80215,126.71869)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="E8" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 247.95737,176.65742 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="E8"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,347.54499,126.71869)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="E9" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 277.70021,176.65742 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="E9"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,94.730839,152.47674)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="F1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 54.628905,202.41547 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="F1"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,139.3451,126.71868)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="F2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 84.371746,202.41546 -14.871419,-8.58602 v -17.17203 l 14.871419,-8.58602 14.871422,8.58602 v 17.17203 z"
+       id="F2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,183.95937,152.47674)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="F3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 114.11459,202.41547 -14.871421,-8.58602 v -17.17204 l 14.871421,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="F3"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,213.7022,152.47674)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="F4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="M 143.85742,202.41547 128.986,193.82945 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="F4"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,243.44504,152.47674)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="F5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 173.60026,202.41547 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="F5"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,243.44504,152.47674)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="F6" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 203.34311,202.41547 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="F6"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,288.05932,126.71869)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="F7" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 233.08597,202.41547 -14.87142,-8.58602 v -17.17203 l 14.87142,-8.58602 14.87142,8.58602 v 17.17203 z"
+       id="F7"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,332.67358,152.47675)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="F8" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 262.8288,202.41548 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="F8"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,109.60226,178.23479)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="G1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 69.500326,228.17352 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="G1"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,154.21652,152.47674)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="G2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="M 99.243166,228.17352 84.371747,219.5875 v -17.17203 l 14.871419,-8.58602 14.871424,8.58602 v 17.17203 z"
+       id="G2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,198.83079,178.23479)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="G3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 128.98601,228.17352 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="G3"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,228.57363,178.23479)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="G4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 158.72885,228.17352 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="G4"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,258.31646,178.23479)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="G5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 188.47168,228.17352 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="G5"
+       inkscape:connector-curvature="0" />
     <path
        class="earth plant-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,288.05932,178.23479)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="G6" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 218.21454,228.17352 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="G6"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,317.80215,178.23479)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="G7" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 247.95737,228.17352 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="G7"
+       inkscape:connector-curvature="0" />
     <path
        class="earth steel-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,124.47368,203.99285)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="H1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 84.371746,253.93158 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="H1"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,169.08794,178.23479)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="H2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 114.11459,253.93157 -14.871423,-8.58602 v -17.17203 l 14.871423,-8.58602 14.87142,8.58602 v 17.17203 z"
+       id="H2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,213.70221,203.99285)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="H3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 143.85743,253.93158 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="H3"
+       inkscape:connector-curvature="0" />
     <path
        class="earth card-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,243.44505,203.99285)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="H4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 173.60027,253.93158 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="H4"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,273.18789,203.99285)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="H5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 203.34311,253.93158 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="H5"
+       inkscape:connector-curvature="0" />
     <path
        class="earth titanium-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,302.93073,203.99285)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="H6" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 233.08595,253.93158 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="H6"
+       inkscape:connector-curvature="0" />
     <path
        class="earth steel-1"
-       transform="matrix(0,0.40729856,-0.40729856,0,139.34511,229.75091)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="I1" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 99.243176,279.68964 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.871424,8.58601 v 17.17204 z"
+       id="I1"
+       inkscape:connector-curvature="0" />
     <path
        class="earth steel-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,183.95937,203.99285)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="m 180.60669,135.07483 -21.08041,36.51233 h -42.16081 l -21.080405,-36.51233 21.080405,-36.512335 42.16081,0 z"
-       id="I2" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 128.98602,279.68963 -14.87142,-8.58602 v -17.17203 l 14.87142,-8.58602 14.87142,8.58602 v 17.17203 z"
+       id="I2"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,228.57364,229.75091)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="I3" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 158.72886,279.68964 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="I3"
+       inkscape:connector-curvature="0" />
     <path
        class="earth"
-       transform="matrix(0,0.40729856,-0.40729856,0,258.31647,229.75091)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="I4" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 188.47169,279.68964 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="I4"
+       inkscape:connector-curvature="0" />
     <path
        class="ocean titanium-2"
-       transform="matrix(0,0.40729856,-0.40729856,0,288.05932,229.75091)"
-       style="fill:none;stroke:#000000;stroke-width:0.18862587"
-       d="M 117.36548,171.58717 96.285072,208.09951 H 54.12426 l -21.080406,-36.51234 21.080406,-36.51233 42.160812,0 z"
-       id="I5" />
+       style="fill:none;stroke:#000000;stroke-width:0.07682705"
+       d="m 218.21454,279.68964 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58602 14.87142,8.58602 v 17.17204 z"
+       id="I5"
+       inkscape:connector-curvature="0" />
     <path
-       transform="matrix(0,0.40729856,-0.40729856,0,71.931543,2.9095593)"
        class="ganymede"
-       style="fill:none;stroke:#000000;stroke-width:0.7365604;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="A1-3" />
+       style="fill:none;stroke:#000000;stroke-width:0.29999998;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 31.829609,51.789949 16.958189,43.203932 V 26.031896 l 14.87142,-8.586018 14.87142,8.586018 v 17.172036 z"
+       id="A1-3"
+       inkscape:connector-curvature="0" />
     <path
-       transform="matrix(0,0.40729856,-0.40729856,0,320.65226,244.38057)"
        class="phobos"
-       style="fill:none;stroke:#000000;stroke-width:0.7365604;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 117.36547,98.5625 -21.0804,36.51233 H 54.124262 L 33.043858,98.5625 54.124262,62.050169 l 42.160808,0 z"
-       id="A1-6" />
+       style="fill:none;stroke:#000000;stroke-width:0.29999998;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 280.02116,293.79013 -14.87142,-8.58602 v -17.17204 l 14.87142,-8.58601 14.87142,8.58601 v 17.17204 z"
+       id="A1-6"
+       inkscape:connector-curvature="0" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38964176px;line-height:0.75;font-family:STIXIntegralsSm;-inkscape-font-specification:STIXIntegralsSm;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44944504"
+     x="355.34808"
+     y="242.92198"
+     id="text1016"><tspan
+       sodipodi:role="line"
+       id="tspan1014"
+       x="355.34808"
+       y="242.92198"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38964176px;line-height:0.75;font-family:Uroob;-inkscape-font-specification:Uroob;text-align:center;text-anchor:middle;stroke-width:0.44944504">Ganymede</tspan><tspan
+       sodipodi:role="line"
+       x="355.34808"
+       y="250.1646"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38964176px;line-height:0.75;font-family:Uroob;-inkscape-font-specification:Uroob;text-align:center;text-anchor:middle;stroke-width:0.44944504"
+       id="tspan1018">colony</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38964176px;line-height:0.75;font-family:STIXIntegralsSm;-inkscape-font-specification:STIXIntegralsSm;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44944504"
+     x="353.78357"
+     y="274.29135"
+     id="text1016-5"><tspan
+       sodipodi:role="line"
+       x="353.78357"
+       y="274.29135"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38964176px;line-height:0.75;font-family:Uroob;-inkscape-font-specification:Uroob;text-align:center;text-anchor:middle;stroke-width:0.44944504"
+       id="tspan1043">Phobos Space</tspan><tspan
+       sodipodi:role="line"
+       x="353.78357"
+       y="281.53397"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38964176px;line-height:0.75;font-family:Uroob;-inkscape-font-specification:Uroob;text-align:center;text-anchor:middle;stroke-width:0.44944504"
+       id="tspan1047">Haven</tspan></text>
 </svg>
