@@ -1,19 +1,20 @@
-/*svg {*/
-/*height: 1000px;*/
-/*width: 1000px;*/
-/*svg {*/
-/*}*/
 
-/*}*/
-
-#map {
+svg {
+    background-color: black;
     height: 800px;
-    width: 800px;
-    /*position: fixed;*/
-    /*top: 50%;*/
-    /*left: 50%;*/
-
+    width: auto;
 }
+
+/*!*}*!*/
+
+/*#map {*/
+    /*height: 800px;*/
+    /*width: 800px;*/
+    /*!*position: fixed;*!*/
+    /*!*top: 50%;*!*/
+    /*!*left: 50%;*!*/
+
+/*}*/
 
 path:hover {
     /*fill: grey;*/
@@ -23,7 +24,7 @@ path:hover {
 path {
     /*fill:none;*/
     stroke: black;
-    stroke-width: 1px;
+    stroke-width: 0.3px;
     pointer-events: all;
     fill-opacity: 0.1;
 }

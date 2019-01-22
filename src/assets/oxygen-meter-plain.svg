@@ -217,9 +217,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1167.6882"
-     inkscape:cy="397.8638"
+     inkscape:zoom="0.35"
+     inkscape:cx="1580.7391"
+     inkscape:cy="119.39681"
      inkscape:document-units="mm"
      inkscape:current-layer="g2476"
      showgrid="false"
@@ -273,333 +273,349 @@
          style="stroke-width:0.26458332;-inkscape-font-specification:Uroob;font-family:Uroob;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:16.93333333px;" /></text>
     <g
        id="g2476">
-      <rect
-         y="6.5089622"
-         x="-158.69662"
-         height="37.452324"
-         width="37.690872"
-         id="rect833"
-         style="opacity:1;fill:url(#linearGradient2380);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-0" />
-      <rect
-         y="6.5089622"
-         x="-121.00576"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-3"
-         style="opacity:1;fill:url(#linearGradient2382);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-1" />
-      <rect
-         y="6.5089622"
-         x="-83.314888"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-6"
-         style="opacity:1;fill:url(#linearGradient2384);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-2" />
-      <rect
-         y="6.5089622"
-         x="-45.62402"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-3-7"
-         style="opacity:1;fill:url(#linearGradient2386);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-3" />
-      <rect
-         y="6.5089622"
-         x="-7.933146"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-5"
-         style="opacity:1;fill:url(#linearGradient2388);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-4" />
-      <rect
-         y="6.5089622"
-         x="29.757719"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-3-3"
-         style="opacity:1;fill:url(#linearGradient2390);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-5" />
-      <rect
-         y="6.5089622"
-         x="67.448593"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-6-5"
-         style="opacity:1;fill:url(#linearGradient2392);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-6" />
-      <rect
-         y="6.5089622"
-         x="105.13947"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-3-7-6"
-         style="opacity:1;fill:url(#linearGradient2394);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-7" />
-      <rect
-         y="6.5089622"
-         x="142.83034"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-2"
-         style="opacity:1;fill:url(#linearGradient2396);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-8" />
-      <rect
-         y="6.5089622"
-         x="180.52122"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-3-9"
-         style="opacity:1;fill:url(#linearGradient2398);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-9" />
-      <rect
-         y="6.5089622"
-         x="218.21208"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-6-1"
-         style="opacity:1;fill:url(#linearGradient2400);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-10" />
-      <rect
-         y="6.5089622"
-         x="255.90294"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-3-7-2"
-         style="opacity:1;fill:url(#linearGradient2402);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-11" />
-      <rect
-         y="6.5089622"
-         x="293.59381"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-5-7"
-         style="opacity:1;fill:url(#linearGradient2404);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-12" />
-      <rect
-         y="6.5089622"
-         x="331.28467"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-3-3-0"
-         style="opacity:1;fill:url(#linearGradient2406);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-13" />
-      <rect
-         y="6.5089622"
-         x="368.97556"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-6-5-9"
-         style="opacity:1;fill:url(#linearGradient2408);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         class="oxygen-14" />
-      <rect
-         y="6.5089622"
-         x="406.84543"
-         height="37.452324"
-         width="37.690872"
-         id="rect833-3-7-6-3"
-         style="opacity:1;fill:url(#linearGradient2410);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text1052"
-         y="31.452833"
-         x="-144.6192"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.452833"
-           x="-144.6192"
-           id="tspan1050"
-           sodipodi:role="line">0</tspan></text>
-      <text
-         id="text1060"
-         y="31.463858"
-         x="-104.60505"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.463858"
-           x="-104.60505"
-           id="tspan1058"
-           sodipodi:role="line">1</tspan></text>
-      <text
-         id="text1064"
-         y="31.441809"
-         x="-69.303612"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.441809"
-           x="-69.303612"
-           id="tspan1062"
-           sodipodi:role="line">2</tspan></text>
-      <text
-         id="text1068"
-         y="31.452833"
-         x="-31.838739"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.452833"
-           x="-31.838739"
-           id="tspan1066"
-           sodipodi:role="line">3</tspan></text>
-      <text
-         id="text1072"
-         y="31.485905"
-         x="5.5985746"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.485905"
-           x="5.5985746"
-           id="tspan1070"
-           sodipodi:role="line">4</tspan></text>
-      <text
-         id="text1076"
-         y="31.469368"
-         x="43.609146"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.469368"
-           x="43.609146"
-           id="tspan1074"
-           sodipodi:role="line">5</tspan></text>
-      <text
-         id="text1080"
-         y="31.463858"
-         x="81.272461"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.463858"
-           x="81.272461"
-           id="tspan1078"
-           sodipodi:role="line">6</tspan></text>
-      <text
-         id="text1084"
-         y="31.452833"
-         x="119.02397"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.452833"
-           x="119.02397"
-           id="tspan1082"
-           sodipodi:role="line">7</tspan></text>
-      <text
-         id="text1088"
-         y="31.496929"
-         x="156.63766"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.496929"
-           x="156.63766"
-           id="tspan1086"
-           sodipodi:role="line">8</tspan></text>
-      <text
-         id="text1092"
-         y="31.485905"
-         x="194.34509"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.485905"
-           x="194.34509"
-           id="tspan1090"
-           sodipodi:role="line">9</tspan></text>
-      <text
-         id="text1096"
-         y="31.452833"
-         x="230.41805"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="31.452833"
-           x="230.41805"
-           id="tspan1094"
-           sodipodi:role="line">10</tspan></text>
-      <text
-         id="text1100"
-         y="31.463858"
-         x="270.34134"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;opacity:1;"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332;"
-           y="31.463858"
-           x="270.34134"
-           id="tspan1098"
-           sodipodi:role="line">11</tspan></text>
-      <text
-         id="text1104"
-         y="31.452833"
-         x="305.73914"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;opacity:1;"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332;"
-           y="31.452833"
-           x="305.73914"
-           id="tspan1102"
-           sodipodi:role="line">12</tspan></text>
-      <text
-         id="text1108"
-         y="31.452833"
-         x="343.22604"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;opacity:1;"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332;"
-           y="31.452833"
-           x="343.22604"
-           id="tspan1106"
-           sodipodi:role="line">13</tspan></text>
-      <text
-         id="text1112"
-         y="31.47488"
-         x="380.61377"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;opacity:1;"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332;"
-           y="31.47488"
-           x="380.61377"
-           id="tspan1110"
-           sodipodi:role="line">14</tspan></text>
-      <ellipse
-         style="opacity:1;fill:url(#radialGradient3201);fill-opacity:1;stroke:none;stroke-width:0.26427516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="path3199"
-         cx="425.69086"
-         cy="25.235125"
-         rx="16.154034"
-         ry="16.91819" />
-      <text
-         id="text1116"
-         y="31.103909"
-         x="411.6131"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;opacity:1;"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332;"
-           y="31.103909"
-           x="411.6131"
-           id="tspan1114"
-           sodipodi:role="line">O<tspan
-   id="tspan3146"
-   style="font-size:64.99999762%;baseline-shift:sub;">2</tspan>%</tspan></text>
       <g
-         id="g3144"
-         transform="matrix(0.57140591,0,0,0.57140591,76.849851,32.828534)">
-        <ellipse
-           ry="18.077398"
-           rx="10.974727"
-           cy="-48.123322"
-           cx="149.37424"
-           id="path3140"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           id="path95-5"
-           d="m 149.37433,-63.322224 a 1.5708626,1.4770796 0 0 1 1.56708,1.406918 h 0.003 v 0.05678 a 1.5708626,1.4770796 0 0 1 7.3e-4,0.01341 1.5708626,1.4770796 0 0 1 -7.3e-4,0.0189 v 23.66464 a 2.8548016,2.8548016 0 0 1 1.28462,2.382422 2.8548016,2.8548016 0 0 1 -2.85475,2.854824 2.8548016,2.8548016 0 0 1 -2.85483,-2.854824 2.8548016,2.8548016 0 0 1 1.28463,-2.38177 v -23.670758 a 1.5708626,1.4770796 0 0 1 -7.3e-4,-0.01341 1.5708626,1.4770796 0 0 1 7.3e-4,-0.01883 v -0.05136 h 0.002 a 1.5708626,1.4770796 0 0 1 1.56825,-1.406919 z"
-           style="fill:url(#linearGradient985-4);fill-opacity:1;stroke:#a7a7a7;stroke-width:0.15105723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
+         id="g6642">
+        <rect
+           rx="13.607142"
+           ry="23.434517"
+           y="-1.9625635"
+           x="-163.32701"
+           height="55.94046"
+           width="625.17285"
+           id="rect6053"
+           style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           transform="translate(6.3395767,0.50297029)"
+           id="g6108">
+          <rect
+             y="6.5089622"
+             x="-158.69662"
+             height="37.452324"
+             width="37.690872"
+             id="rect833"
+             style="opacity:1;fill:url(#linearGradient2380);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-0" />
+          <rect
+             y="6.5089622"
+             x="-121.00576"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-3"
+             style="opacity:1;fill:url(#linearGradient2382);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-1" />
+          <rect
+             y="6.5089622"
+             x="-83.314888"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-6"
+             style="opacity:1;fill:url(#linearGradient2384);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-2" />
+          <rect
+             y="6.5089622"
+             x="-45.62402"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-3-7"
+             style="opacity:1;fill:url(#linearGradient2386);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-3" />
+          <rect
+             y="6.5089622"
+             x="-7.933146"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-5"
+             style="opacity:1;fill:url(#linearGradient2388);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-4" />
+          <rect
+             y="6.5089622"
+             x="29.757719"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-3-3"
+             style="opacity:1;fill:url(#linearGradient2390);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-5" />
+          <rect
+             y="6.5089622"
+             x="67.448593"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-6-5"
+             style="opacity:1;fill:url(#linearGradient2392);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-6" />
+          <rect
+             y="6.5089622"
+             x="105.13947"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-3-7-6"
+             style="opacity:1;fill:url(#linearGradient2394);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-7" />
+          <rect
+             y="6.5089622"
+             x="142.83034"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-2"
+             style="opacity:1;fill:url(#linearGradient2396);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-8" />
+          <rect
+             y="6.5089622"
+             x="180.52122"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-3-9"
+             style="opacity:1;fill:url(#linearGradient2398);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-9" />
+          <rect
+             y="6.5089622"
+             x="218.21208"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-6-1"
+             style="opacity:1;fill:url(#linearGradient2400);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-10" />
+          <rect
+             y="6.5089622"
+             x="255.90294"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-3-7-2"
+             style="opacity:1;fill:url(#linearGradient2402);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-11" />
+          <rect
+             y="6.5089622"
+             x="293.59381"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-5-7"
+             style="opacity:1;fill:url(#linearGradient2404);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-12" />
+          <rect
+             y="6.5089622"
+             x="331.28467"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-3-3-0"
+             style="opacity:1;fill:url(#linearGradient2406);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-13" />
+          <rect
+             y="6.5089622"
+             x="368.97556"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-6-5-9"
+             style="opacity:1;fill:url(#linearGradient2408);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             class="oxygen-14" />
+          <rect
+             y="6.5089622"
+             x="406.84543"
+             height="37.452324"
+             width="37.690872"
+             id="rect833-3-7-6-3"
+             style="opacity:1;fill:url(#linearGradient2410);fill-opacity:1;stroke:#000000;stroke-width:0.18933721;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             id="text1052"
+             y="31.452833"
+             x="-144.6192"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.452833"
+               x="-144.6192"
+               id="tspan1050"
+               sodipodi:role="line">0</tspan></text>
+          <text
+             id="text1060"
+             y="31.463858"
+             x="-104.60505"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.463858"
+               x="-104.60505"
+               id="tspan1058"
+               sodipodi:role="line">1</tspan></text>
+          <text
+             id="text1064"
+             y="31.441809"
+             x="-69.303612"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.441809"
+               x="-69.303612"
+               id="tspan1062"
+               sodipodi:role="line">2</tspan></text>
+          <text
+             id="text1068"
+             y="31.452833"
+             x="-31.838739"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.452833"
+               x="-31.838739"
+               id="tspan1066"
+               sodipodi:role="line">3</tspan></text>
+          <text
+             id="text1072"
+             y="31.485905"
+             x="5.5985746"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.485905"
+               x="5.5985746"
+               id="tspan1070"
+               sodipodi:role="line">4</tspan></text>
+          <text
+             id="text1076"
+             y="31.469368"
+             x="43.609146"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.469368"
+               x="43.609146"
+               id="tspan1074"
+               sodipodi:role="line">5</tspan></text>
+          <text
+             id="text1080"
+             y="31.463858"
+             x="81.272461"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.463858"
+               x="81.272461"
+               id="tspan1078"
+               sodipodi:role="line">6</tspan></text>
+          <text
+             id="text1084"
+             y="31.452833"
+             x="119.02397"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.452833"
+               x="119.02397"
+               id="tspan1082"
+               sodipodi:role="line">7</tspan></text>
+          <text
+             id="text1088"
+             y="31.496929"
+             x="156.63766"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.496929"
+               x="156.63766"
+               id="tspan1086"
+               sodipodi:role="line">8</tspan></text>
+          <text
+             id="text1092"
+             y="31.485905"
+             x="194.34509"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.485905"
+               x="194.34509"
+               id="tspan1090"
+               sodipodi:role="line">9</tspan></text>
+          <text
+             id="text1096"
+             y="31.452833"
+             x="230.41805"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.452833"
+               x="230.41805"
+               id="tspan1094"
+               sodipodi:role="line">10</tspan></text>
+          <text
+             id="text1100"
+             y="31.463858"
+             x="270.34134"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.463858"
+               x="270.34134"
+               id="tspan1098"
+               sodipodi:role="line">11</tspan></text>
+          <text
+             id="text1104"
+             y="31.452833"
+             x="305.73914"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.452833"
+               x="305.73914"
+               id="tspan1102"
+               sodipodi:role="line">12</tspan></text>
+          <text
+             id="text1108"
+             y="31.452833"
+             x="343.22604"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.452833"
+               x="343.22604"
+               id="tspan1106"
+               sodipodi:role="line">13</tspan></text>
+          <text
+             id="text1112"
+             y="31.47488"
+             x="380.61377"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.47488"
+               x="380.61377"
+               id="tspan1110"
+               sodipodi:role="line">14</tspan></text>
+          <ellipse
+             style="opacity:1;fill:url(#radialGradient3201);fill-opacity:1;stroke:none;stroke-width:0.26427516;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path3199"
+             cx="425.69086"
+             cy="25.235125"
+             rx="16.154034"
+             ry="16.91819" />
+          <text
+             id="text1116"
+             y="31.103909"
+             x="411.6131"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.57777786px;font-family:Uroob;-inkscape-font-specification:'Uroob, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="31.103909"
+               x="411.6131"
+               id="tspan1114"
+               sodipodi:role="line">O<tspan
+   id="tspan3146"
+   style="font-size:64.99999762%;baseline-shift:sub">2</tspan>%</tspan></text>
+          <g
+             id="g3144"
+             transform="matrix(0.57140591,0,0,0.57140591,76.849851,32.828534)">
+            <ellipse
+               ry="18.077398"
+               rx="10.974727"
+               cy="-48.123322"
+               cx="149.37424"
+               id="path3140"
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <path
+               id="path95-5"
+               d="m 149.37433,-63.322224 a 1.5708626,1.4770796 0 0 1 1.56708,1.406918 h 0.003 v 0.05678 a 1.5708626,1.4770796 0 0 1 7.3e-4,0.01341 1.5708626,1.4770796 0 0 1 -7.3e-4,0.0189 v 23.66464 a 2.8548016,2.8548016 0 0 1 1.28462,2.382422 2.8548016,2.8548016 0 0 1 -2.85475,2.854824 2.8548016,2.8548016 0 0 1 -2.85483,-2.854824 2.8548016,2.8548016 0 0 1 1.28463,-2.38177 v -23.670758 a 1.5708626,1.4770796 0 0 1 -7.3e-4,-0.01341 1.5708626,1.4770796 0 0 1 7.3e-4,-0.01883 v -0.05136 h 0.002 a 1.5708626,1.4770796 0 0 1 1.56825,-1.406919 z"
+               style="fill:url(#linearGradient985-4);fill-opacity:1;stroke:#a7a7a7;stroke-width:0.15105723;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
       </g>
     </g>
   </g>
